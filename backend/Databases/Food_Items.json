@@ -1,0 +1,142 @@
+[
+    {
+        "_id": "64fb152f8dd9af5d54bb135f",
+        "name": "Vegetable Biryani",
+        "category": "Main Course",
+        "price": 180,
+        "image": "https://img.freepik.com/free-photo/side-view-rice-garnish-with-fried-onion-carrot-greens-chili-pepper-table_141793-5069.jpg?size=626&ext=jpg&ga=GA1.2.766831409.1682670178&semt=ais"
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1360",
+        "name": "Paneer Tikka",
+        "category": "Main Course",
+        "price": 240,
+        "image": "https://media.gettyimages.com/id/79260013/photo/close-up-of-a-paneer-tikka-being-prepared.jpg?s=612x612&w=0&k=20&c=deEcqa7I2UHuboISXxHIGrR8oO0zICddsJ-uEj9xIrA="
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1361",
+        "name": "Masala Dosa",
+        "category": "Starter",
+        "price": 150,
+        "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1362",
+        "name": "Chana Masala",
+        "category": "Main Course",
+        "price": 200,
+        "image": "https://images.pexels.com/photos/9287035/pexels-photo-9287035.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1364",
+        "name": "Palak Paneer",
+        "category": "Main Course",
+        "price": 220,
+        "image": "https://media.istockphoto.com/id/1146291429/photo/palak-paneer-or-spinach-and-cottage-cheese-curry-on-a-dark-background-traditional-indian-food.jpg?b=1&s=612x612&w=0&k=20&c=B5nVKJAsv3R2NkNyqUblZD5Xs6Y-H3DM4WSg2UF-wl0="
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1365",
+        "name": "Aloo Gobi",
+        "category": "Main Course",
+        "price": 200,
+        "image": "https://media.istockphoto.com/id/1289217438/photo/indian-style-cauliflower-with-potatoes-or-aloo-gobhi.jpg?b=1&s=612x612&w=0&k=20&c=XXUAauUhLno_E4yY66IbANYP8ET6B-PvhRPv5cez08A="
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1366",
+        "name": "Baingan Bharta",
+        "category": "Main Course",
+        "price": 200,
+        "image": "https://media.istockphoto.com/id/1542565639/photo/whole-roasted-eggplant-or-brinjal-in-a-traditional-clay-stove-angeethi-in-northern-india.jpg?b=1&s=612x612&w=0&k=20&c=X4s6GhfI8o1YZZkRcTLBO8zK-xq08UHIv4T4AAfjBYA="
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1367",
+        "name": "Samosa",
+        "category": "Starter",
+        "price": 25,
+        "image": "https://media.istockphoto.com/id/1364775147/photo/meat-samosa.jpg?b=1&s=612x612&w=0&k=20&c=ocmvgQvZILSM96Td_rWzoEdQFLHey4HkWh7wAzmPVhY="
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1368",
+        "name": "Rajma Chawal",
+        "category": "Main Course",
+        "price": 220,
+        "image": "https://images.pexels.com/photos/12737912/pexels-photo-12737912.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1369",
+        "name": "Pav Bhaji",
+        "category": "Starter",
+        "price": 150,
+        "image": "https://media.istockphoto.com/id/1057140522/photo/indian-mumbai-food-pav-bhaji-from-vegetables-with-bread-close-up-in-a-bowl-horizontal-top-view.jpg?b=1&s=612x612&w=0&k=20&c=SUPJ9bCTVsPdqgiNeciK_oJpG4onevH5yga1RFGJ7ek="
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1370",
+        "name": "Malai Kofta",
+        "category": "Main Course",
+        "price": 220,
+        "image": "https://media.istockphoto.com/id/1397648059/photo/malai-kofta-curry.jpg?b=1&s=612x612&w=0&k=20&c=hFqlQ3tdC9O2ix6SpXHSSoRl8Tq6kdFipgGRUQ6AUH8="
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1371",
+        "name": "Chole Bhature",
+        "category": "Starter",
+        "price": 150,
+        "image": "https://media.istockphoto.com/id/1209870232/photo/choley-bhature.jpg?b=1&s=612x612&w=0&k=20&c=2N5K6pXGdnJAK0tPVt7YPAQpgtjcTVxxVzRuuR6sUSQ="
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1372",
+        "name": "Pani Puri",
+        "category": "Starter",
+        "price": 80,
+        "image": "https://media.istockphoto.com/id/1187999948/photo/paani-poori.jpg?b=1&s=612x612&w=0&k=20&c=Zpe4Lt_5IG0ZqLWp738kQpBuA-HUcOToOwAZfbDYicY="
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1373",
+        "name": "Tandoori Roti",
+        "category": "Main Course",
+        "price": 20,
+        "image": "https://media.istockphoto.com/id/1296860425/photo/indian-cuisine-tandoori-roti-whole-wheat-flat-bread.jpg?b=1&s=612x612&w=0&k=20&c=EEe-OdZwJ_IVRqqzPm1e5AH6gSFFOOrH9_i_L-fRE-s="
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1374",
+        "name": "Mutter Paneer",
+        "category": "Main Course",
+        "price": 220,
+        "image": "https://media.istockphoto.com/id/1527888735/photo/matar-paneer-in-bowl-top-view-famous-indian-dish-peas-and-cottage-cheese-curry.jpg?b=1&s=612x612&w=0&k=20&c=D36o3E0sC9mwiI3APUaXSXE1WAibkTKqzorlC9W3c1M="
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1375",
+        "name": "Bhindi Masala",
+        "category": "Main Course",
+        "price": 200,
+        "image": "https://media.istockphoto.com/id/1319624024/photo/bharwa-masala-bhindi-or-stuffed-okra.jpg?b=1&s=612x612&w=0&k=20&c=k8eaQ_IBjIZQWG24mVUJgVT-R-6TZ9WNx4JlK73-2CM="
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1376",
+        "name": "Dal Tadka",
+        "category": "Main Course",
+        "price": 180,
+        "image": "https://media.istockphoto.com/id/1326815151/photo/indian-popular-food-dal-fry-or-traditional-dal-tadka-curry.jpg?b=1&s=612x612&w=0&k=20&c=cNVCsnT5J6tJnzghCRjV6gJm5KUlT8I4iiJAOvXLXjw="
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1377",
+        "name": "Gulab Jamun",
+        "category": "Desert",
+        "price": 60,
+        "image": "https://images.pexels.com/photos/7449105/pexels-photo-7449105.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1378",
+        "name": "Aloo Paratha",
+        "category": "Main Course",
+        "price": 100,
+        "image": "https://media.istockphoto.com/id/1213259784/photo/aallu-parantha.jpg?b=1&s=612x612&w=0&k=20&c=tqcvvoqdPvCiGAtjtQ3OqWsV_qlkCjno_QZE3IjPS2Y="
+    },
+    {
+        "_id": "64fb152f8dd9af5d54bb1379",
+        "name": "Kheer",
+        "category": "Desert",
+        "price": 50,
+        "image": "https://media.istockphoto.com/id/1307741167/photo/choshir-payesh-or-chushi-pitha.jpg?b=1&s=612x612&w=0&k=20&c=Z_uIh6aDEsfCoyMYrTKdNaR7Jt0fCgv5SXttYn3LCp4="
+    }
+]
